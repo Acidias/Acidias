@@ -2,7 +2,7 @@
 
 **Software Engineer** based in London, building things that actually solve problems.
 
-I'm into **AI, automations, and full-stack development** — turning ideas into shipped products, usually in a single evening. ☕
+I'm into **AI, automations, and full-stack development** — turning ideas into shipped products. ☕
 
 ---
 
