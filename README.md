@@ -48,7 +48,7 @@ I believe the best way to learn is to build something real. Every repo here star
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mihaly-dani/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dani-mihaly-arpad/)
 - 🌐 [Foundry70](https://www.foundry70.co.uk)
 - 📧 dmisi98@gmail.com
 
