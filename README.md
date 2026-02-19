@@ -11,7 +11,7 @@ I'm into **AI, automations, and full-stack development** — turning ideas into 
 | Project | What it does |
 |---------|-------------|
 | 🚗 **Vehicle Configurator** | PNG-layered visual configurator for custom vehicles — think Build-a-Bronco but better |
-| 📊 **LinkedIn Dashboard** | AI-powered content creation & publishing platform for LinkedIn |
+| 📱 **ClawPost** | AI social media automation platform - voice-to-viral posts for LinkedIn & X. First OpenClaw skill. [clawpost.dev](https://clawpost.dev) |
 | ⚖️ **Legal Pack Analyzer** | AI tool that reads legal property packs so you don't have to |
 | 🛒 **Vinted Automation** | Semi-automated buying & smart search for Vinted deals |
 | 💇 **Beauty Salon Platform** | Booking & management system for salons |
