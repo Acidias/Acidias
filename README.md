@@ -40,8 +40,6 @@ Vercel • Raspberry Pi • Linux
 
 ### 🧠 Philosophy
 
-> Build fast, ship faster, fix it in production. Just kidding — write tests. Sometimes.
-
 I believe the best way to learn is to build something real. Every repo here started as "what if I could..." and turned into something people actually use.
 
 ---
